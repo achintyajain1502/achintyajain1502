@@ -1,5 +1,4 @@
 # 💫 Current Project:
-I am currently working on RAG based AI agent 
 
 
 # 💻 Tech Stack:
