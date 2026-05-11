@@ -2,8 +2,8 @@
 
 I am a passionate Full Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
 
-💡 Always eager to learn, build, and solve real-world problems through code.
-⚡ Open to collaborations, freelance projects, and exciting development opportunities anytime.
+-💡 Always eager to learn, build, and solve real-world problems through code.
+-⚡ Open to collaborations, freelance projects, and exciting development opportunities anytime.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
