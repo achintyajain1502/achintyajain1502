@@ -34,5 +34,5 @@ I am a passionate Full Stack Developer focused on building responsive, scalable,
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=achintyajain1502&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achintyajain1502&label=Profile%20views&color=0e75b6&style=flat" alt="achintyajain1502" /> </p>
+<img src="https://komarev.com/ghpvc/?username=achintyajain1502&label=Profile%20views&color=0e75b6&style=flat" alt="achintyajain1502" />
 
