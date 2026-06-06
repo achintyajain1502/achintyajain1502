@@ -6,7 +6,6 @@ I am a passionate Full Stack Developer focused on building responsive, scalable,
 
 ⚡ Open to collaborations, freelance projects, and exciting development opportunities anytime.
 
---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
